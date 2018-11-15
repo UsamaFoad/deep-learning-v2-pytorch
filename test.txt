@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Test changing repo in two ways
+=======
+Test changing remote repo from udacity to UsamaFoad
+>>>>>>> 6779e15f33bd0b68f7ce121daa2e073cd70e45c2
